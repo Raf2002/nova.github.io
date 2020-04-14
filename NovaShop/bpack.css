@@ -1,0 +1,44 @@
+body {
+	background: url(https://i039.radikal.ru/0907/cf/156b52591b1f.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1 {
+	color: #ff6666;
+	font-family: cursive;
+	margin-top: -1%;
+	padding-left: 5%;
+	font-size: 40px;
+}
+
+a {
+	margin-left: 1.5%;
+	text-decoration: none;
+	font-size: 22px;
+	font-family: monospace;
+	color:  #ff8080;
+}
+
+#img1 {
+	padding-top: 3%;
+	height: 300px;
+	padding-left: 1%;
+}
+#img2 {
+	padding-top: 3%;
+	height: 300px;
+	padding-left: 1%;
+}
+#img3 {
+	padding-top: 3%;
+	height: 300px;
+	padding-left: 1%;
+}
+
+h4 {
+	color: #ff6666;
+	float: left;
+	margin-left: 4%;
+	margin-right: 5%;
+}
